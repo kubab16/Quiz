@@ -1,0 +1,114 @@
+#logo{
+    border-bottom-right-radius: 10em;
+    border: #bfbfbf solid;
+    width: 6.5em;
+    background-color: #eeeeee;
+    float: left;
+    height: 2.5em;
+}
+#logopicture{
+    width: 5.5em;
+}
+#baner{
+    font-size: 5em;
+    background-color: #e5e4e4;
+    font-family: "Arial Black";
+    border-right: #cdcdcd solid;
+    clear: both;
+    width: 100%;
+}
+    #baner h2{
+        text-align: center;
+        border-bottom: #cdcdcd solid;
+    }
+#quiz{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: #d9d9d9;
+    height: 50em;
+    border-radius: 9em;
+    padding: 10px;
+    border: #d4d4d4 solid 2px;
+}
+    #quiz h1{
+        font-size: 3em;
+        font-family: "Arial Black";
+    }
+    #quiz p{
+        font-size: 2em;
+        font-family: "Arial Black";
+    }
+    #qustion{
+        font-size: 3em;
+        background-color: rgba(25, 123, 187, 0.82);
+        color: #ffffff;
+        border: rgba(25, 123, 187, 0.82);
+        margin: 0em 2em;
+    }
+    #qustion:hover{
+        font-size: 3em;
+        background-color: rgba(6, 143, 255, 0.82);
+        color: #ffffff;
+        border: rgba(25, 123, 187, 0.82);
+    }
+    #qustion:active{
+        font-size: 3em;
+        background-color: rgba(0, 97, 163, 0.82);
+        color: #ffffff;
+        border: rgba(25, 123, 187, 0.82);
+    }
+html{
+    background-image: url("tło.jpg");
+}
+table{
+    text-align: center;
+}
+#query{
+    text-align: center;
+    font-size: 3em;
+    font-family: "Arial Black";
+}
+.select{
+    border-radius: 1em;
+    padding: 0.5em;
+    margin: 0.4em;
+    width: 16em;
+    height: 4.5em;
+    font-size: 2.5em;
+    background-color: rgba(25, 123, 187, 0.82);
+    color: #ffffff;
+    border: rgba(25, 123, 187, 0.82);
+}
+    .select:hover{
+        border-radius: 1em;
+        background-color: rgba(6, 143, 255, 0.82);
+        color: #ffffff;
+        border: rgba(25, 123, 187, 0.82);
+    }
+    .select:active{
+        background-color: rgba(0, 97, 163, 0.82);
+        color: #ffffff;
+        border: rgba(25, 123, 187, 0.82);
+    }
+    .select table, td, tr{
+        margin: 0 auto;
+        text-align: center;
+
+    }
+h3, h4{
+    font-family: "Arial Black";
+}
+h3{
+    font-size: 3em;
+}
+h4{
+    font-size: 2em;
+}
+#odp{
+    background-color: #828181;
+    margin: auto;
+    padding: 0.5em;
+    width: 80%;
+    border-radius: 5em;
+}
